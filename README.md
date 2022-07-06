@@ -22,7 +22,7 @@ Projeto
 
 ### 💻 PROJETO
 
-Energéticos Accelerator é uma aplicação simples. Seu objetivo é emitir um relatório de controle sob as vendas da distribuidora de energéticos. O relatório contem todos os cálculos tributários de cada venda/cliente e os dados gerais de impostos, mercadorias vendidas e o valor total.
+Energéticos Accelerator é uma aplicação simples. Seu objetivo é emitir um relatório de controle sobre as vendas da distribuidora de energéticos. O relatório contem todos os cálculos tributários de cada venda/cliente e os dados gerais de impostos, mercadorias vendidas e o valor total.
 
 Este projeto foi desenvolvido durante a segunda etapa do processo seletivo <a href="https://www.thoughtworks.com/pt-br/about-us/diversity-and-inclusion/aceleradora">Aceleradora Ágil e inclusiva.</a><hr>
 
