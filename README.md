@@ -28,7 +28,7 @@ Este projeto foi desenvolvido durante a segunda etapa do processo seletivo <a hr
 
 ### 🔖 OUTPUT DA APLICAÇÃO
 
-<img src="https://github.com/Joel-Mariz/energeticos-accelerator/blob/main/output_projeto/output.PNG" alt="imagem de saida no terminal integrado do VScode">
+<img src="https://github.com/Joel-Mariz/energeticos-accelerator/blob/master/output_projeto/output.PNG" alt="imagem de saida no terminal integrado do VScode">
 
 <hr><br>
 <br><br>
